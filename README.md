@@ -13,16 +13,17 @@ A clean HTML5 and CSS3 webpage with a responsive layout and a three-image galler
 
 ## Files
 
-- `index.html` - Page structure and placeholder gallery images
+- `index.html` - Page structure and gallery image references
 - `styles.css` - Page styling, including the CSS Grid gallery layout
+- `assets/gallery-image.png` - Image used in all three gallery positions
 
 ## How to Use
 
 1. Open `index.html` in a web browser.
 2. Use the header links to navigate to each section.
 
-The gallery uses placeholder images from [placehold.co](https://placehold.co/). Replace
-their `src` URLs in `index.html` with your own image paths or URLs when ready.
+The gallery currently displays the image in `assets/gallery-image.png` in all three
+positions. Replace the image file to update the gallery.
 
 ## Technologies
 
