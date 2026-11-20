@@ -1,4 +1,11 @@
 Peste câmpul adormit în taină,
 Toamna își așterne mândra haină,
+<<<<<<< HEAD
+Din tăria cerului curat,
 Un fior de vânt a mângâiat
+Frunza galbenă ce-ncet se duce,
+Un fior de vânt a mângâiat
+=======
+Un fior de vânt a mângâiat
+>>>>>>> origin/main
 Noaptea rece vine ca o oarbă.
