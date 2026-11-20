@@ -25,6 +25,10 @@ A clean and modern HTML/CSS webpage with a responsive design.
 - HTML5
 - CSS3
 
+## Git Conflict Exercise
+
+For Lab 8, two branches made different edits to `durere_de_cap.txt`. After the first pull request was merged, the second produced a merge conflict. The conflict was resolved by combining the desired text, removing the conflict markers, and merging the updated pull request.
+
 ---
 
 © 2025 My Simple Webpage
